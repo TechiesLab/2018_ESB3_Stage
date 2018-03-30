@@ -1,6 +1,5 @@
-input[type=submit] {
-  border: 1px dotted #999;
-  margin: 50;
-  padding: 20;
-  background-color: pink;
-}
+/*.row {
+  margin-top: 15px;
+}*/
+
+@font-family-base

@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'King';
+	src: url('font/Kingthings-Trypewriter/Kingthings_Trypewriter_2.ttf') ;
+}
+
+body {
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)) ,url('PICTURES/drones 72 cd.png');
+	background-size: contain;
+	font-family: 'King';
+}
+
+h5 {
+	color: darkred;
+}
+
+p{
+	color: darkred;
+}
+
+.banner {
+	text-align: center;
+	margin-top: 280px;left:80px;
+}
+
+.col-custom {
+	margin:10px;
+}

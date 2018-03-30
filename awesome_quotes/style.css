@@ -1,0 +1,17 @@
+.container {
+	text-align: center;
+	background-image: linear-gradient(#E0FFFF, #9932CC);
+}
+.container h1 {
+	color:#9932CC;
+	font-family: 'Indie Flower', cursive;
+}
+.container p {
+	color:#9932CC;
+	font-family: 'Indie Flower', cursive;
+}
+
+.banner {
+	text-align: center;
+	padding: 20px;
+}
